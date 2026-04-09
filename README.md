@@ -25,7 +25,6 @@
 - [🧩 Limitations](#-limitations)
 - [🚀 Future Improvements](#-future-improvements)
 - [🛠 Tools and Technologies Used](#-tools-and-technologies-used)
-- [📁 Repository Structure](#-repository-structure)
 
 ---
 
@@ -182,14 +181,3 @@ The results show that:
 
 ---
 
-## 📁 Repository Structure
-
-myContract-nft-simulation/
-│
-├── README.md              # Project documentation and explanation
-├── contract.hs           # Smart contract code (myContract)
-└── screenshots/          # Screenshots of simulation process
-    ├── code.png          # Contract code view
-    ├── start.png         # Simulation start screen
-    ├── deposit.png       # Deposit action in simulator
-    └── final.png         # Final transaction output
